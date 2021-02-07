@@ -7,7 +7,7 @@ ext {
             ],
             chuck           : '1.1.0',
             dagger          : '2.16',
-            kotlin          : '1.4.30',
+            kotlin          : '1.4.21-2',
             kotlinCompose   : '1.0.0-alpha11',
             kotlinCoroutines: '1.4.2',
             moshi           : '1.11.0',
@@ -19,7 +19,7 @@ ext {
                     androidGradle: 'com.android.tools.build:gradle:7.0.0-alpha05',
                     kotlinGradle : "org.jetbrains.kotlin:kotlin-gradle-plugin:${versions.kotlin}"
             ],
-            androidxAppCompat          : 'androidx.appcompat:appcompat:1.0.2',
+            androidxAppCompat          : 'androidx.appcompat:appcompat:1.2.0',
             androidxConstraintLayout   : 'androidx.constraintlayout:constraintlayout:2.0.0-alpha2',
             androidxEspressoCore       : 'androidx.test.espresso:espresso-core:3.1.0',
             androidxLegacySupportV13   : 'androidx.legacy:legacy-support-v13:1.0.0',
